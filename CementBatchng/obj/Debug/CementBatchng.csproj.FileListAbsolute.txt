@@ -1,0 +1,15 @@
+C:\Users\44753\source\repos\CementBatchng\bin\Debug\CementBatchng.exe.config
+C:\Users\44753\source\repos\CementBatchng\bin\Debug\CementBatchng.exe
+C:\Users\44753\source\repos\CementBatchng\bin\Debug\CementBatchng.pdb
+C:\Users\44753\source\repos\CementBatchng\bin\Debug\S7.Net.dll
+C:\Users\44753\source\repos\CementBatchng\obj\Debug\CementBatchng.Form1.resources
+C:\Users\44753\source\repos\CementBatchng\obj\Debug\CementBatchng.csproj.GenerateResource.cache
+C:\Users\44753\source\repos\CementBatchng\obj\Debug\CementBatchng.csproj.CoreCompileInputs.cache
+C:\Users\44753\source\repos\CementBatchng\obj\Debug\CementBatchng.csproj.CopyComplete
+C:\Users\44753\source\repos\CementBatchng\obj\Debug\CementBatchng.exe
+C:\Users\44753\source\repos\CementBatchng\obj\Debug\CementBatchng.pdb
+C:\Users\44753\source\repos\CementBatchng\obj\Debug\CementBatchng.csprojAssemblyReference.cache
+C:\Users\44753\source\repos\CementBatchng\bin\Debug\CementBatchng.exe.manifest
+C:\Users\44753\source\repos\CementBatchng\bin\Debug\CementBatchng.application
+C:\Users\44753\source\repos\CementBatchng\obj\Debug\CementBatchng.exe.manifest
+C:\Users\44753\source\repos\CementBatchng\obj\Debug\CementBatchng.application
